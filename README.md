@@ -6,7 +6,7 @@ The purpose of this competition is to provide new business models and fresh idea
 
 
 
-![logo](C:\Users\PC-011\Desktop\logo.jpg)
+![sns_thumb2020](C:\Users\한현영\Desktop\2020_BigContest\img\sns_thumb2020.jpg)
 
 
 
