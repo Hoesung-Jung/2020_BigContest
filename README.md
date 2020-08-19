@@ -6,7 +6,7 @@ The purpose of this competition is to provide new business models and fresh idea
 
 
 
-![sns_thumb2020](.\img\sns_thumb2020.jpg)
+![sns_thumb2020](./img/sns_thumb2020.jpg)
 
 
 
