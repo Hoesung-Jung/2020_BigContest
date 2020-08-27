@@ -1,0 +1,2 @@
+del df['팀명']; del df['도실']; del df['도루']; del df['고4']; del df['볼넷%']; del df['wSB']; del df['SPD']; 0.051113196
+del df['팀명']; del df['도실']; del df['도루']; del df['고4']; del df['볼넷%']; del df['wSB']; del df['SPD']; del df['경기']; del df['타석'];
